@@ -1,7 +1,8 @@
 repo_name: colinkiama/FloatingAppExample
 report_id: a14baed550c7fe54b517dbe5f4f3809f
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-12T07:11:01+00:00'
+timestamp: '2024-01-05T08:49:39+00:00'
 requested_by: colinkiama
 provider: github
 branch: master
@@ -17,7 +18,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6755/2c45151a4a11d3a3c8e71bb34dd069d6_400x400.png
-  detection_source_url: FloatingAppExample/FloatingAppExample.csproj
+  detection_source_url: https://github.com/colinkiama/FloatingAppExample/blob/master/FloatingAppExample/FloatingAppExample.csproj
   detection_source: FloatingAppExample/FloatingAppExample.csproj
   last_updated_by: Colin Kiama
   last_updated_on: 2018-06-05 00:00:54.000000000 Z
@@ -30,6 +31,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/colinkiama/FloatingAppExample
   detection_source: Repo Metadata
 - name: ".NET"
   description: A free, cross-platform, open source developer platform for building
@@ -42,7 +44,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
-  detection_source_url: FloatingAppExample/FloatingAppExample.csproj
+  detection_source_url: https://github.com/colinkiama/FloatingAppExample/blob/master/FloatingAppExample/FloatingAppExample.csproj
   detection_source: FloatingAppExample/FloatingAppExample.csproj
   last_updated_by: Colin Kiama
   last_updated_on: 2018-06-05 00:00:54.000000000 Z
@@ -54,6 +56,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/colinkiama/FloatingAppExample
   detection_source: Repo Metadata
 - name: Visual Studio
   description: State-of-the-art tools and services that you can use to create great
@@ -64,6 +67,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Integrated Development Environment
   image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/colinkiama/FloatingAppExample/blob/master/FloatingAppExample.sln
   detection_source: FloatingAppExample.sln
   last_updated_by: Colin Kiama
   last_updated_on: 2018-06-05 00:00:54.000000000 Z
